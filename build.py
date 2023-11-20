@@ -4,7 +4,7 @@ from upbt.builder import Build
 Build({
  
         'pyd':{
-            'target':'./mylibrary'
+            'input':'mylibrary'
         },
         'pyc':{
            
